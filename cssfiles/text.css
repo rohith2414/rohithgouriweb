@@ -1,0 +1,49 @@
+
+    p{
+        font-family:roboto;
+    }
+    .video-utube{
+        
+        font-size:30px;
+        font-weight:bold;
+        width:500px;
+        line-height :35px;
+        margin-bottom: 0px;
+        
+    }
+    .video-line{
+        
+        font-size: 14px;
+        color:grey;
+
+        margin-top: 9px;
+        margin-bottom: 20px;
+    }
+    .author{
+        margin-top: 0px;
+        
+        font-size: 14px;
+        color:grey;
+        margin-bottom:20px;
+    }
+    .content{
+        margin-top:0px;
+        
+        font: size 20px;
+        width:300px;
+        color:rgb(97, 79, 79);
+        line-height:21px;
+        margin-bottom: 100px;
+    }
+    .apple-text{
+        font-size:14px;
+        background-color: rgb(227,65,64);
+        color:white;
+        text-align:center;
+        padding-top: 18px;
+        padding-bottom:18px;
+    }
+    .span-ex:hover{
+        text-decoration: underline;
+        cursor:pointer;
+    }
